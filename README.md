@@ -8,10 +8,6 @@
   <br />
 </div>
 
-![MERN Image Search App Dashboard](client/public/dashboard-screenshot.png) 
-*(Note: You must add your own screenshot named `dashboard-screenshot.png` to the `client/public` folder for this image to show)*
-
----
 
 ## ✨ Key Features
 
@@ -59,8 +55,8 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/mern-image-search.git](https://github.com/your-username/mern-image-search.git)
-    cd mern-image-search
+    git clone [https://github.com/sayyub80/image-search.git]
+    cd image-search
     ```
 
 2.  **Install root dependencies:**
